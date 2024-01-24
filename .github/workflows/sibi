@@ -1,0 +1,209 @@
+sibi.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGN UP</title>
+<style>
+    body{
+      background-image: url(mn.jpg);
+      background-size: cover;
+}
+</style>
+</head>
+<body>
+   <pre>
+                  <p>GMAIL : <input type="text" placeholder="shinchan123@gamil.com"></p> <h1><P>Verify<input type="checkbox" value="verify"></P></h1> <button><a href="prem.html">Submit</a></button>
+
+                              
+                            
+</pre></body>
+</html>
+sign up mage
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          #hii{
+     background-image: url(988211.jpg);
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+}
+h3{
+    color: white;
+}
+h1{
+   
+    color: aqua;
+        font-style: inherit;
+        background: linear-gradient(90deg, #ff0000, #1900ff 33%, #00ff2a 33%, #fcff33 66%, #ff0281 66%, #f7b707);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: 200% 100%;
+    animation: gradient-animation 3s infinite linear;
+}  
+@keyframes gradient-animation {
+    0% {
+        background-position: 100%;
+    }
+    100% {
+        background-position: -100%;
+    }
+    
+    
+}
+a{
+    
+        color: aqua;
+       font-style: italic;
+        background: linear-gradient(90deg, #ff0000, #1900ff 33%, #00ff2a 33%, #fcff33 66%, #ff0281 66%, #f7b707);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: 200% 100%;
+    animation: gradient-animation 3s infinite linear;
+}  
+@keyframes gradient-animation {
+    0% {
+        background-position: 100%;
+    }
+    100% {
+        background-position: -100%;
+    }
+    }
+    
+
+    </style>
+    </head>
+<body>
+    <div id="hii"> 
+   <Center>
+    
+    <h1>T O O N J E T</h1>
+</Center>
+    
+
+
+<div><h1>Shinchan</h1></div>
+ <iframe width="350" height="200" src="https://www.youtube.com/embed/3ZKLwkFAZw4?si=hlkHjEmTNVCVv9px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>🤣shinchan new episode in tamil (latest episode 2023) Ep_1🤣</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/GF7i6-q6bHA?si=m5vnrbXhhpYWf7FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Shinchan in Tamil | Shinchan New Episode 2023 | Shinchan Tamil | Ep_2</h3> 
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/7Y_7KQ-7K0I?si=xVSlakdw3V4RUuS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Shin chan new unseen episode 2023 | shinchan tamil|Ep_3</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/5EVh0RpW1QE?si=Ms3wBBQzMTNppDYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Shinchan tamil episodes|shinchan tamil|Ep_4</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/adYv_Xv_NY0?si=GLUNUFe7ymQhEA6j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Shinchan robot Appa ❤️WhatsApp status version tamil part 2 😄😄|shinchan tamil|Ep-5</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/xIF-hQZlpWA?si=10Hp4_BCLznSSZtu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>shinchan in tamil | shinchan in tamil old episodes | #shinchantamil #shinchan @be_happy.963</h3>
+    <div><h1>MR.beam</h1></div>
+<iframe width="350" height="200" src="https://www.youtube.com/embed/W1TM9rhYu-E?si=gKLoPe0Js7ESd9YG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Mr Bean's Home Movie | Mr Bean | Cartoons for Kids | WildBrain Kids|Ep_1🤣</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/l_51NIzo1gI?si=6gR5rKIpWUo_Nvzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Cute Pets | Mr Bean | Cartoons for Kids | WildBrain Kids</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/dqL9zNn2VDM?si=hXAFuq9vV7NH7FNu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Mr Bean Animated | TAXI BEAN | Season 2 | Full Episodes Compilation | Cartoons for Children</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/pbi1G-djT70?si=zCBqQWPsezjvPNa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Clothes Shopping In The JANUARY SALES |sabarinathan| Mr Bean | Mr Bean Official</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/uyYIojxxljE?si=KCN2MfP0YkIw9pqm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Mr Bean | SUPER CARRITO | Dibujos animados para niños | WildBrain #MRBEAN</h3>
+    <div><h1>Chhota beam</h1></div>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/bR4vo3Cc52s?si=we8IXeQQPDdUL1pQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Chhota Bheem - பீம் Vs கலியா | Bheem vs Kalia | Tamil Video for Kids</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/9tRnmFi3eHI?si=0rDLMfHi5ejCdWaH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Chhota Bheem - Raju the Prankster | ராஜு தி பொய்க்கால் | Cartoons for Kids in Tamil</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/Yv_Q3r8gAbc?si=ZeEjmeDkYM1m1qP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Chhota Bheem - Bioscope Trap | பயாஸ்கோப் பொறி | Cartoons for Kids in Tamil</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/aFSPDZCXotI?si=7gOkKPCCNDTQdyH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Chhota Bheem - கிர்மதாவாக கலியா | Kalia transforms into Kirmada | Cartoons for Kids</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/JL9wAOVqP8U?si=ZOXjJaHI2YUzBcBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Chhota Bheem and Ganesh Saves Mooshaks of Dholakpur | Ganesh Chaturthi Special</h3>
+    <div><h1>kris</h1></div>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/5vh3AHKvzJU?si=El5fkBDESYK4MIry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3>Kris | Kanishk Ka Plan Fail Compilation  (Tamil) | Pogo</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/Gkt4CLpI14k?si=ZYh3Hjz9EA6IVcFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Kris | Kanishk Ka Plan Fail Compilation 16 (Tamil) | Pogo</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/NojaK4t3q9c?si=DaSpeghAdFp195Su" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Kris | Kris vs Asur Compilation  (Tamil) | Pogo</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/Kc3BF413jkU?si=Ja4xe7LfSwVu9lZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3>Kris | Kris vs sabarinathan Compilation  (Tamil) | Pogo</h3>
+    <iframe width="350" height="200" src="https://www.youtube.com/embed/9rMdrXpLfzg?si=IaKE7bMxbWNmceXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p>Kris | Kanishk Ka Plan Fail Compilation  (Tamil) | Pogo</p>
+    
+     <a href="https://www.youtube.com/@vootkidstamil4639/featured">CLICK HERE FOR MORE VIDEOS😎</a>
+
+     
+
+    
+</body>
+</html>
+ending page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     #big{
+       
+        background-image:url(ee.jpg);
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+
+                    
+     }   
+   form{
+     color: black;
+     }
+    
+     
+    </style>
+</head>
+<body>
+    <form>
+        <pre>
+        <center>
+            <div id="big">
+            
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<p>GMAIL : <input type="text" placeholder="shinchan123@gamil.com"></p><p> CURRENT PASSWORD : <input type ="password"></p><P> NEW PASSWORD : <input type ="password"></p>
+    <button><a href="prem.html">ENTER HERE</a></button>
+
+
+
+
+
+            </div>
+                </center>
+    </pre>
+    </form>
+</body>
+</html>
+forgot password page
